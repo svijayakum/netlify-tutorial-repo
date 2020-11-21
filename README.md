@@ -1,1 +1,1 @@
-# writing-portfolio-repo
+# my-simple-portfolio
